@@ -1,0 +1,17 @@
+{
+
+    "Iota": {
+      "testnet": {
+        "username": "imran",
+        "password": "whoami",
+        "network": "172.16.21.21",
+        "port": 14265
+      },
+      "mainnet": {
+        "username": "imran",
+        "password": "whoami",
+        "network": "mainnet",
+        "port": 14265
+      }
+    }
+}
